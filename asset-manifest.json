@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cart_App_Using_React/static/css/main.ff7b075b.css",
+    "main.js": "/Cart_App_Using_React/static/js/main.35144d80.js",
+    "static/js/453.29d6b171.chunk.js": "/Cart_App_Using_React/static/js/453.29d6b171.chunk.js",
+    "index.html": "/Cart_App_Using_React/index.html",
+    "main.ff7b075b.css.map": "/Cart_App_Using_React/static/css/main.ff7b075b.css.map",
+    "main.35144d80.js.map": "/Cart_App_Using_React/static/js/main.35144d80.js.map",
+    "453.29d6b171.chunk.js.map": "/Cart_App_Using_React/static/js/453.29d6b171.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff7b075b.css",
+    "static/js/main.35144d80.js"
+  ]
+}
